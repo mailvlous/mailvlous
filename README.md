@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## My Stats
 <p align="left">
-<a href="https://github.com/codeyzx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codeyzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeyzx&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mailvlous">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mailvlous&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mailvlous&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
