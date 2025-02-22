@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://github.com/mailvlous">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mailvlous&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mailvlous&show_icons=true&locale=en&layout=compact&card_width=450" alt="Top Languages" />
       </a>
     </td>
     <td>
       <a href="https://github.com/mailvlous">
-        <img src="https://github-readme-stats.vercel.app/api?username=mailvlous&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mailvlous&show_icons=true&locale=en&card_width=450" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
