@@ -16,8 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ## My Stats
-<p align="left">
-<a href="https://github.com/mailvlous">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mailvlous&show_icons=true&locale=en&layout=compact" alt="mailvlous" />
-</a>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mailvlous">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mailvlous&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mailvlous">
+        <img src="https://github-readme-stats.vercel.app/api?username=mailvlous&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
