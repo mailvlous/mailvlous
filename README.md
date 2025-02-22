@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <a href="https://github.com/mailvlous">
-        <img src="https://github-readme-stats.vercel.app/api?username=mailvlous&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mailvlous&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
